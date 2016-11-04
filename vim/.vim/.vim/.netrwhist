@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/zhaocong/socialmoto/etl/commands'
+let g:netrw_dirhist_2='/home/zhaocong/socialmoto/engine'
+let g:netrw_dirhist_3='/home/zhaocong/socialmoto'
+let g:netrw_dirhist_4='/home/zhaocong/socialmoto/frontend/views/layouts'
+let g:netrw_dirhist_5='/home/zhaocong/socialmoto/frontend/views/site'
+let g:netrw_dirhist_6='/home/zhaocong/socialmoto/frontend/views/insight'
+let g:netrw_dirhist_7='/home/zhaocong/socialmoto/frontend/models'
+let g:netrw_dirhist_8='/data1/home/zhaocong/socialpeta/appinsight/crawler'
+let g:netrw_dirhist_9='/data1/home/zhaocong/socialmoto/etl/commands'
